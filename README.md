@@ -15,7 +15,7 @@ If you want to change to the desired version, replace desired version instead *v
 
 **For x86 Architecture**
 
-This command changes Marzban Node Xray core to 1.8.21 :
+This command changes Marzban Node Xray core version to 1.8.21 :
 
 ```
 wget https://github.com/XTLS/Xray-core/releases/download/v1.8.21/Xray-linux-64.zip
@@ -25,7 +25,7 @@ mkdir /var/lib/xray-core && mv Xray-linux-64.zip /var/lib/xray-core && cd /var/l
 -----------------------------------------------------
 **For arm64 Architecture**
 
-This command changes Marzban Node Xray core to 1.8.21
+This command changes Marzban Node Xray core version to 1.8.21
 
 ```
 wget https://github.com/XTLS/Xray-core/releases/download/v1.8.21/Xray-linux-arm64-v8a.zip
