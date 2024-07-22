@@ -32,7 +32,7 @@ wget https://github.com/ReinforsedX/Marzban-Node-Xray-core-version-changer/raw/m
 ----------------------------------------------------
 **If you will have problem, restore the backup :**
 
-Reastor Backup :
+Restore Backup :
 ```
 cd /Marzban-node && mv docker-compose.yml.backup docker-compose.yml && docker compose down && docker compose up -d
 ```
