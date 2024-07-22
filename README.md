@@ -13,6 +13,7 @@ wget https://github.com/SnaitSheet/Marzban-Node-Xray-core-version-changer/raw/ma
 ```
 
 
+
 **For arm64 Architecture**
 This command changes Marzban Node Xray core to 1.8.20
 ```
