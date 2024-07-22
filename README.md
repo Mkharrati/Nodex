@@ -8,7 +8,7 @@ This project changes [Marzban Node](https://github.com/Gozargah/Marzban-node) xr
 
 - **How to use ?**
 
-**First of all, get backup form docker-compose.yml:**
+**First of all, get backup from docker-compose.yml:**
 ```
 cd /Marzban-node && cp docker-compose.yml docker-compose.yml.backup
 ```
