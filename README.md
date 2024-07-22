@@ -19,7 +19,7 @@ cd /Marzban-node && cp docker-compose.yml docker-compose.yml.backup
 This command changes Marzban Node Xray core to 1.8.20 :
 
 ```
-wget https://github.com/SnaitSheet/Marzban-Node-Xray-core-version-changer/raw/main/x86/1.8.20-x86 && bash 1.8.20-x86
+wget https://github.com/ReinforsedX/Marzban-Node-Xray-core-version-changer/raw/main/x86/1.8.20-x86 && bash 1.8.20-x86
 ```
 -----------------------------------------------------
 **For arm64 Architecture**
@@ -27,7 +27,7 @@ wget https://github.com/SnaitSheet/Marzban-Node-Xray-core-version-changer/raw/ma
 This command changes Marzban Node Xray core to 1.8.20
 
 ```
-wget https://github.com/SnaitSheet/Marzban-Node-Xray-core-version-changer/raw/main/arm64/1.8.20-arm64 && bash 1.8.20-arm64
+wget https://github.com/ReinforsedX/Marzban-Node-Xray-core-version-changer/raw/main/arm64/1.8.20-arm64 && bash 1.8.20-arm64
 ```
 ----------------------------------------------------
 **If you have a problem, restore the backup :**
