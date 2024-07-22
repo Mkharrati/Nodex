@@ -2,7 +2,7 @@ Hi
 
 This is a low level project that I writed With the help of chatgpt.
 
-This project changes [Marzban Node](https://github.com/Gozargah/Marzban-node). xray core version.
+This project changes [Marzban Node](https://github.com/Gozargah/Marzban-node) xray core version.
 
 **Warning** : If you connect your node to several panels, do not use it.
 
