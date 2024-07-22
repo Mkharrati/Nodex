@@ -30,7 +30,7 @@ This command changes Marzban Node Xray core to 1.8.21
 wget https://github.com/ReinforsedX/Marzban-Node-Xray-core-version-changer/raw/main/arm64/v1.8.21-arm64 && bash v1.8.21-arm64
 ```
 ----------------------------------------------------
-**If you have a problem, restore the backup :**
+**If you will have problem, restore the backup :**
 
 Reastor Backup :
 ```
