@@ -1,6 +1,6 @@
 Hi
 
-This is a basic project that i writed with my Knowledge and Chatgpt.
+This is a low level project that I writed With the help of chatgpt.
 
 This project changes [Marzban Node](https://pages.github.com/). xray core version.
 
