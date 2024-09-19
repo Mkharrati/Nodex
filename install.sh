@@ -1,3 +1,4 @@
+#!/bin/bash
 sudo cd
 sudo rm Nodex.sh
 sudo rm /usr/bin/Nodex
