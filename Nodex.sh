@@ -45,7 +45,8 @@ update_marzban_node() {
 restart(){
 cd $marzban_node_dir
 docker compose down
-docker compose up -d   
+docker compose up -d 
+echo "Xray core changed to $1 successfuly"
 }
 
 Determine_architecture
