@@ -5,7 +5,7 @@
 sudo bash -c "$(curl -sL https://github.com/Mkharrati/Nodex/raw/refs/heads/main/install.sh)" @ install
 ```
 
-### How to use?
+## How to use?
 
 command structure :
 
