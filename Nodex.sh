@@ -1,4 +1,5 @@
 #!/bin/bash
+
 # Determine the architecture
 Determine_architecture() {
 arch="Xray-linux-64.zip"
@@ -8,9 +9,7 @@ fi
 echo $arch
 }
 
-
 # Marzban-node directory
-
 marzban_node_dir=$(find / -type d -name "Marzban-node" -exec test -f "{}/docker-compose.yml" \; -print -quit)
 
 # creat core folder
@@ -33,6 +32,7 @@ apt install zip
 unzip $arch
 rm geoip.dat geosite.dat LICENSE README.md
 }
+
 # Edite docker-compose.yml
 update_marzban_node() {
     sed -i "/XRAY_EXECUTABLE_PATH/d" $marzban_node_dir/docker-compose.yml
