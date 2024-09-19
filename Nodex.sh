@@ -53,4 +53,5 @@ Determine_architecture
 creat_core_folder
 get_xray_core $1
 update_marzban_node $1
-restart
+clear
+restart $1
