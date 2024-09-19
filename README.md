@@ -2,7 +2,7 @@
 
 * install
 ```
-sudo bash -c "$(curl -sL https://github.com/Mkharrati/Nodex/raw/refs/heads/main/install.sh)" @ install
+sudo sh -c "$(curl -sL https://github.com/Mkharrati/Nodex/raw/refs/heads/main/install.sh)" @ install
 ```
 
 ## How to use?
@@ -17,6 +17,10 @@ Replace your desired version :
 ```
 Nodex 1.8.24
 ```
+
+
+
+https://github.com/user-attachments/assets/38fa4142-3e4e-47b4-b0fb-05981c5deb89
 
 
 
