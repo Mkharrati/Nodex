@@ -5,4 +5,7 @@ sudo wget https://github.com/Mkharrati/Nodex/raw/refs/heads/main/Nodex.sh
 sudo mv Nodex.sh /usr/bin/Nodex
 sudo chmod 777 /usr/bin/Nodex
 clear
-echo "Nodex Installed successfuly."
+G='\033[0;32m'
+NC='\033[0m'
+echo "${RED}Nodex Installed successfuly${NC}"
+
