@@ -9,7 +9,7 @@ sudo bash -c "$(curl -sL https://github.com/Mkharrati/Nodex/raw/refs/heads/main/
 
 command structure :
 
-Nodex [version]
+Nodex [VERSION]
 
 **e.g:**
 
