@@ -1,7 +1,7 @@
  # Marzban-node xray core updater
  
  [Marzban-node](https://github.com/Gozargah/Marzban-node)
- 
+ ----------------
 * install
 ```
 sudo sh -c "$(curl -sL https://github.com/Mkharrati/Nodex/raw/refs/heads/main/install.sh)" @ install
