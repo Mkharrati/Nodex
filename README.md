@@ -1,4 +1,4 @@
- # Marzban-node xray core updater
+ # Marzban-node xray core changer
  
 * install
 ```
