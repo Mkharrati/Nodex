@@ -7,5 +7,5 @@ sudo chmod 777 /usr/bin/Nodex
 clear
 G='\033[0;32m'
 NC='\033[0m'
-echo "${G}Nodex Installed successfuly${NC}"
+echo "${G}Nodex Installed successfuly!${NC}"
 
