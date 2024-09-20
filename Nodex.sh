@@ -1,5 +1,10 @@
 #!/bin/bash
 
+# Colors
+G='\033[0;32m'
+R='\033[0;31m'
+NC='\033[0m'
+
 # Determine the architecture
 Determine_architecture() {
 arch="Xray-linux-64.zip"
@@ -46,7 +51,7 @@ restart(){
 cd $marzban_node_dir
 docker compose down
 docker compose up -d 
-echo "Xray core changed to $1 successfuly"
+echo "xray core changed to ${R}$1${NC}${G} successfuly${NC}"
 }
 
 Determine_architecture
@@ -54,4 +59,4 @@ creat_core_folder
 get_xray_core $1
 update_marzban_node $1
 clear
-restart $1
+restart $1 $G $R $NC
